@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Carts from '../Carts/Carts';
 import Product from '../Product/Product';
+import "../Shop/Shop.css";
 
 const Shop = () => {
 
@@ -25,9 +26,9 @@ const Shop = () => {
 
 
     return (
-        <div className='sm:grid-cols-1'>
+        <div className=' '>
             
-            <div className="products-container">
+            <div className="products-container sm:grid-cols-1">
                 {
                     products.map(product=><Product
                     key={product.id}

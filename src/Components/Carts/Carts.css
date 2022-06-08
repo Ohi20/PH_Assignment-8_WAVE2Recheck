@@ -1,0 +1,13 @@
+.cart{
+    position:sticky;
+    top:0;
+    padding: 30px 20px;
+}
+.cart-btn-1{
+    margin-right: 20px;
+    color: #C56C86;
+}
+.cart-image{
+    width:100px;
+    height: 100px;
+}
