@@ -1,0 +1,82 @@
+[
+    {
+      "id": "1",
+      "category": "Random-Access-Memory",
+      "name": "RAM-16gb",
+      "seller": "Kingston",
+      "price": 71.00,
+      "img": "https://images.unsplash.com/photo-1542978709-19c95dc3bc7e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+    },
+    {
+        "id": "2",
+        "category": "Hard Disk",
+        "name": "ROM-1tb-HardDisk",
+        "seller": "Western-Digital",
+        "price": 49.00,
+        "img": "https://images.unsplash.com/photo-1618555981542-06bd8cf63233?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80"
+      },   
+      {
+        "id": "3",
+        "category": "Motherboard",
+        "name": "Gigabyte-Motherboard",
+        "seller": "Gigabyte",
+        "price": 2250,
+        "img": "https://images.unsplash.com/photo-1629480613113-1ce05feadd48?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+      },
+      {
+        "id": "4",
+        "category": "Processor",
+        "name": "Core i7",
+        "seller": "Intel",
+        "price": 320,
+        "img": "https://images.unsplash.com/photo-1600348712270-5af9e3590f66?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+      },
+      {
+        "id": "5",
+        "category": "Monitor",
+        "name": "LED Monitor",
+        "seller": "Dell",
+        "price": 500,
+        "img": "https://images.unsplash.com/photo-1591370874773-6702e8f12fd8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+      },
+      {
+        "id": "6",
+        "category": "Video Card",
+        "name": "GeForce 1060",
+        "seller": "NVIDIA",
+        "price": 300,
+        "img": "https://images.unsplash.com/photo-1555618254-84e2cf498b01?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80"
+      },
+      {
+        "id": "7",
+        "category": "Key-Board",
+        "name": "Dell KB216 Usb Keyboard",
+        "seller": "A4tech",
+        "price": 100,
+        "img": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+      },
+      {
+        "id": "8",
+        "category": "Mouse",
+        "name": "B175 Wireless Mouse",
+        "seller": "Logitech",
+        "price": 150,
+        "img": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80"
+      },
+      {
+        "id": "9",
+        "category": "Power-Supply",
+        "name": "Corsair VS650 650W PSU",
+        "seller": "IBM",
+        "price": 600,
+        "img": "https://images.unsplash.com/photo-1529961172671-d48e8280f846?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1127&q=80"
+      },
+      {
+        "id": "10",
+        "category": "SSD",
+        "name": "120 1TB 2.5 SATA Gaming SSD",
+        "seller": "ADATA",
+        "price": 160,
+        "img": "https://images.unsplash.com/photo-1638492086415-0eb100a347da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+      } 
+]
