@@ -26,9 +26,9 @@ const Shop = () => {
 
 
     return (
-        <div className=' '>
+        <div className='border-4'>
             
-            <div className="products-container sm:grid-cols-1">
+            <div className="products-container">
                 {
                     products.map(product=><Product
                     key={product.id}
